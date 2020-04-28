@@ -2,6 +2,12 @@
 
 ## Getting started
 
+### Pre requirements
+
+1. Install php-common, php-mysql and php-cli
+
+### Execution
+
 Try only the connection with mysql
 
 > Delete the references or comment them everything about the "app"
